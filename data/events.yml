@@ -1,0 +1,180 @@
+# https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2014/06/0e65eWorld-Event-Times-EN-6-17-2014.pdf
+---
+- name: Tequatl
+  tier: 3
+  duration: 1800
+  schedule:
+    - '00:00:00 UTC'
+    - '03:00:00 UTC'
+    - '07:00:00 UTC'
+    - '11:30:00 UTC'
+    - '16:00:00 UTC'
+    - '19:00:00 UTC'
+
+- name: Evolved Jungle Wurm
+  tier: 3
+  duration: 1800
+  schedule:
+    - '01:00:00 UTC'
+    - '04:00:00 UTC'
+    - '08:00:00 UTC'
+    - '12:30:00 UTC'
+    - '17:00:00 UTC'
+    - '20:00:00 UTC'
+
+- name: Karka Queen
+  tier: 3
+  duration: 1800
+  schedule:
+    - '02:00:00 UTC'
+    - '06:00:00 UTC'
+    - '10:30:00 UTC'
+    - '15:00:00 UTC'
+    - '18:00:00 UTC'
+    - '23:00:00 UTC'
+
+- name: The Shatterer
+  tier: 2
+  duration: 1800
+  schedule:
+    - '01:00:00 UTC'
+    - '04:00:00 UTC'
+    - '07:00:00 UTC'
+    - '10:00:00 UTC'
+    - '13:00:00 UTC'
+    - '16:00:00 UTC'
+    - '19:00:00 UTC'
+    - '22:00:00 UTC'
+
+- name: Modniir Ulgoth
+  tier: 2
+  duration: 1800
+  schedule:
+    - '01:30:00 UTC'
+    - '04:30:00 UTC'
+    - '07:30:00 UTC'
+    - '10:30:00 UTC'
+    - '13:30:00 UTC'
+    - '16:30:00 UTC'
+    - '19:30:00 UTC'
+    - '22:30:00 UTC'
+
+- name: Golem Mark II
+  tier: 2
+  duration: 1800
+  schedule:
+    - '02:00:00 UTC'
+    - '05:00:00 UTC'
+    - '08:00:00 UTC'
+    - '11:00:00 UTC'
+    - '14:00:00 UTC'
+    - '17:00:00 UTC'
+    - '20:00:00 UTC'
+    - '23:00:00 UTC'
+
+- name: Claw of Jormag
+  tier: 2
+  duration: 1800
+  schedule:
+    - '02:30:00 UTC'
+    - '05:30:00 UTC'
+    - '08:30:00 UTC'
+    - '11:30:00 UTC'
+    - '14:30:00 UTC'
+    - '17:30:00 UTC'
+    - '20:30:00 UTC'
+    - '23:30:00 UTC'
+
+- name: Taidha Covington
+  tier: 2
+  duration: 1800
+  schedule:
+    - '00:00:00 UTC'
+    - '03:00:00 UTC'
+    - '06:00:00 UTC'
+    - '09:00:00 UTC'
+    - '12:00:00 UTC'
+    - '15:00:00 UTC'
+    - '18:00:00 UTC'
+    - '21:00:00 UTC'
+
+- name: Megadestroyer
+  tier: 2
+  duration: 1800
+  schedule:
+    - '00:30:00 UTC'
+    - '03:30:00 UTC'
+    - '06:30:00 UTC'
+    - '09:30:00 UTC'
+    - '12:30:00 UTC'
+    - '15:30:00 UTC'
+    - '18:30:00 UTC'
+    - '21:30:00 UTC'
+
+- name: Jungle Wurm
+  tier: 1
+  duration: 1800
+  schedule:
+    - '01:15:00 UTC'
+    - '03:15:00 UTC'
+    - '05:15:00 UTC'
+    - '07:15:00 UTC'
+    - '09:15:00 UTC'
+    - '11:15:00 UTC'
+    - '13:15:00 UTC'
+    - '15:15:00 UTC'
+    - '17:15:00 UTC'
+    - '19:15:00 UTC'
+    - '21:15:00 UTC'
+    - '23:15:00 UTC'
+
+- name: Shadow Behemoth
+  tier: 1
+  duration: 1800
+  schedule:
+    - '01:45:00 UTC'
+    - '03:45:00 UTC'
+    - '05:45:00 UTC'
+    - '07:45:00 UTC'
+    - '09:45:00 UTC'
+    - '11:45:00 UTC'
+    - '13:45:00 UTC'
+    - '15:45:00 UTC'
+    - '17:45:00 UTC'
+    - '19:45:00 UTC'
+    - '21:45:00 UTC'
+    - '23:45:00 UTC'
+
+- name: Svanir Shaman
+  tier: 1
+  duration: 1800
+  schedule:
+    - '00:15:00 UTC'
+    - '02:15:00 UTC'
+    - '04:15:00 UTC'
+    - '06:15:00 UTC'
+    - '08:15:00 UTC'
+    - '10:15:00 UTC'
+    - '12:15:00 UTC'
+    - '14:15:00 UTC'
+    - '16:15:00 UTC'
+    - '18:15:00 UTC'
+    - '20:15:00 UTC'
+    - '22:15:00 UTC'
+
+- name: Fire Elemental
+  tier: 1
+  duration: 1800
+  schedule:
+    - '00:45:00 UTC'
+    - '02:45:00 UTC'
+    - '04:45:00 UTC'
+    - '06:45:00 UTC'
+    - '08:45:00 UTC'
+    - '10:45:00 UTC'
+    - '12:45:00 UTC'
+    - '14:45:00 UTC'
+    - '16:45:00 UTC'
+    - '18:45:00 UTC'
+    - '20:45:00 UTC'
+    - '22:45:00 UTC'
