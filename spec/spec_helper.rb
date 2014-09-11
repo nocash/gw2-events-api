@@ -66,6 +66,8 @@ RSpec.configure do |config|
   # as the one that triggered the failure.
   Kernel.srand config.seed
 
+  config.filter_gems_from_backtrace "sinatra", "rack"
+
   config.include Rack::Test::Methods, type: :request
   config.include JsonHelper, type: :request
 end
