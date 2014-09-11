@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe "/" do
+describe "/", type: :request do
   it "is OK" do
     get "/"
 
@@ -8,7 +8,7 @@ describe "/" do
   end
 end
 
-describe "/events" do
+describe "/events", type: :request do
   it "returns a list of events" do
     get "/events"
 

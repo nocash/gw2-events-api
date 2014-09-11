@@ -65,7 +65,7 @@ RSpec.configure do |config|
   # as the one that triggered the failure.
   Kernel.srand config.seed
 
-  config.include Rack::Test::Methods
+  config.include Rack::Test::Methods, type: :request
 end
 
 require_relative "../app/events"
