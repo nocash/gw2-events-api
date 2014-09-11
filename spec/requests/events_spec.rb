@@ -1,10 +1,11 @@
 require "spec_helper"
 
 describe "/events", type: :request do
+  include EventsHelper
+
   it "returns a list of events" do
     get "/events"
 
-    expect(last_response).to be_ok
-    expect(json).to eq events_json
+    expect(json).to eq events
   end
 end
