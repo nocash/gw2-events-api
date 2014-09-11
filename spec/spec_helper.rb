@@ -1,6 +1,7 @@
 ENV["RACK_ENV"] = "test"
 
 require "rack/test"
+Dir["./spec/support/**/*.rb"].sort.each { |f| require f }
 
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
@@ -66,6 +67,7 @@ RSpec.configure do |config|
   Kernel.srand config.seed
 
   config.include Rack::Test::Methods, type: :request
+  config.include JsonHelper, type: :request
 end
 
 require_relative "../app/events"
