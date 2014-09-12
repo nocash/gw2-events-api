@@ -4,7 +4,7 @@ require "sinatra/reloader" if development?
 
 class App < Sinatra::Application
   get "/" do
-    "OK"
+    redirect "/events"
   end
 
   get "/events" do
