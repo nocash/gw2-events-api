@@ -75,5 +75,5 @@ end
 require_relative "../app/events"
 
 def app
-  Sinatra::Application
+  @app ||= App.new
 end

@@ -2,12 +2,14 @@ require "sinatra"
 require "sinatra/json"
 require "sinatra/reloader" if development?
 
-require_relative "models/event"
+class App < Sinatra::Application
+  get "/" do
+    "OK"
+  end
 
-get "/" do
-  "OK"
+  get "/events" do
+    json Event.all
+  end
 end
 
-get "/events" do
-  json Event.all
-end
+require_relative "models/init"
