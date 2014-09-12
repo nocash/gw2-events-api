@@ -1,7 +1,8 @@
 require "sinatra"
 require "sinatra/json"
+require "sinatra/reloader" if development?
 
-require_relative 'models/event'
+require_relative "models/event"
 
 get "/" do
   "OK"
